@@ -1,0 +1,52 @@
+<html>
+<head>
+<style>
+.one{position:relative;
+left:250px;
+}
+position
+</style>
+</head>
+<body>
+<center><h1>Price Details Table</h1></center>
+<table class="one">
+<caption>Product Prices</caption>
+<tr>
+<th>Product Name</th>
+<th>Description</th>
+<th>Price</th>
+<th>Availability</th>
+</tr>
+<tr>
+<td>Smartwatch</td>
+<td>Track ypur fitness goals and stay connected with your phone on your wrist with this smartwatch.</td>
+<td>$99.99</td>
+<td>In stock</td><br>
+</tr>
+<tr>
+<td>Wireless Headphones</td>
+<td>Listen to your favourite tunes without the hangle of tassled wires with this wireless headphones.</td>
+<td>$49.99</td>
+<td>In stock</td>
+</tr>
+<tr>
+<td>Bluetooth speaker</td>
+<td>Take your music wherever you go with this portable bluetooth speaker.</td>
+<td>$79.99</td>
+<td>In stock</td>
+</tr>
+<tr>
+<td>Laptop Backpack</td>
+<td>keep your laptop and other essentials organized and protected with this durable and stylish backpack. </td>
+<td>$29.99</td>
+<td>In stock</td>
+</tr>
+<tr>
+<td>Wireless mouse</td>
+<td>Experience the freedom of wireless with this ergonomic and responsive wireless mouse. </td>
+<td>$19.99</td>
+<td>Out ofstock</td>
+</tr>
+</table>
+</body>
+</html>
